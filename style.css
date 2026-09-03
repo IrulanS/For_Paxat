@@ -195,10 +195,10 @@
   .paper::-webkit-scrollbar-thumb{ background:linear-gradient(180deg,#ff9db8,#ffb6d0); border-radius:8px; }
 
   @media (max-width:720px){
-    .container{ gap:80px; padding :20px; }
-    .envelope-wrap{ width:50vw; height:140px; }
-    .paper{ padding:12px; font-size:0.95rem; }
+    .container{ gap:75px; padding :20px; }
+    .envelope-wrap{ width:70vw; height:170px; }
+    .paper{ padding:8px; font-size:0.95rem; }
     .envelope-label{font-size:0.95rem;}
     .footer-text{margin:60px auto;}
-    h1{font-size: 1.30rem;}
+    h1{font-size: 1.40rem;}
   }
